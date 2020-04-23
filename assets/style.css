@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap');
+
+body{
+    /* background: url(""); */
+    color: black;
+}
+header{
+    text-align: center;
+}
+h1{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: 'Montserrat';
+    font-weight: 700;    
+}
+h2{
+    padding-top: 20px;
+    font-family: 'Montserrat';
+    font-weight: 300;    
+}
+.container{
+    margin-top:40px;
+    padding-bottom: 40px;
+    background: white;
+}
+.container-inside{
+    margin: 0 auto;
+    box-shadow: 0 0 30px lightgrey;
+}
+.col-md-10{
+    padding-bottom: 80px;
+}
+textarea{
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: 300; 
+}
+.Password{
+    background-color: darkblue;
+    padding: 10px;
+    color: white;
+    outline: none;
+    border: none;
+    float: left;
+    margin-left: 40px;
+    font-family: 'Montserrat';
+    font-weight: 400;   
+}
+.Clipboard{
+    background-color:darkgreen;
+    padding: 10px;
+    color: white;
+    outline: none;
+    border: none;
+    float: right;
+    margin-right: 40px;
+    font-family: 'Montserrat';
+    font-weight: 400;   
+}
+.Password:hover{
+    background: darkslategrey;
+}
+.Clipboard:hover{
+    background: lightgrey;
+}
