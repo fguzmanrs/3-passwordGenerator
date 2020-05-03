@@ -7,6 +7,8 @@ Character type: Special characters, Numeric characters, Lowercase characters, Up
 
 The application validates user input and ensures that at least one character type is selected. Once all prompts are answered, the user is presented with a password matching the answered prompts. The generated password displays on the page. User has a button option to copy the password to their clipboard.
 
+![](assets/images/pwGenScreen.png)
+
 User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
