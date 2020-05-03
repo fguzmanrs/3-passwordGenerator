@@ -50,16 +50,4 @@ textarea{
 .Clipboard:hover{
     background: lightgray;
 }
-/* @media only screen and (max-width:800px) { */
-    /* For tablets: */
-    /* .container{
-      width: 80%;
-      padding: 0;
-    }
-  }
-  @media only screen and (max-width:500px) { */
-    /* For mobile phones: */
-    /* .container{
-      width: 100%;
-    }
-  } */
+/* @media needed*/
