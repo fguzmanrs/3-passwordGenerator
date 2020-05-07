@@ -26,7 +26,7 @@ For companies that handle large amounts of sensitive data, weak passwords can po
 
 * Refer to the GIF below for an app demo. 
 
-<!-- ![Password Generator Demo](assets/.gif) -->
+![Password Generator Demo](assets/3-pwGeneratorDemo.gif)
 
 Try it out at: https://fguzmanrs.github.io/3-passwordGenerator/
 
